@@ -1,0 +1,41 @@
+query name,query organism name,query strain name,query gene name,query gi,query gene length,e value,Identity [%],database species name,database gene name,database gi,database gene length 
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,Photosystem II protein D1 1 ,499176722,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16332289,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,photosystem II D1 protein ,16332289,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16332289,360
+Synechocystis sp. PCC 6803 substr. Kazusa,Synechocystis,sp. PCC 6803 substr. Kazusa,SBA1_SYNY3 RecName: Full=Photosystem II protein D1 1; Short=PSII D1 protein 1; AltName: Full=Photosystem II Q(B) protein 1; Flags: Precursor ,2507283,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16332289,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,photosystem II D1 protein ,1653919,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16332289,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,photosystem II D1 protein ,339275384,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16332289,360
+Synechocystis sp. PCC 6803 substr. GT-I,Synechocystis,sp. PCC 6803 substr. GT-I,photosystem II D1 protein ,359273350,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16332289,360
+Synechocystis sp. PCC 6803 substr. PCC-N,Synechocystis,sp. PCC 6803 substr. PCC-N,photosystem II D1 protein ,359276520,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16332289,360
+Synechocystis sp. PCC 6803 substr. PCC-P,Synechocystis,sp. PCC 6803 substr. PCC-P,photosystem II D1 protein ,359279690,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16332289,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,photosystem II D1 protein ,451782409,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16332289,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,unnamed protein product ,47429,360,0.0,99.1666666667,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16332289,360
+Bacillus subtilis BEST7613,Bacillus,subtilis BEST7613,photosystem II D1 protein ,407960056,324,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16332289,360
+Myxosarcina sp. GI1,Myxosarcina,sp. GI1,hypothetical protein ,738541196,360,0.0,87.1866295265,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+filamentous cyanobacterium ESFC-1,filamentous,cyanobacterium ESFC-1,photosystem I reaction center subunit IX ,517211991,360,0.0,94.1666666667,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+filamentous cyanobacterium ESFC-1,filamentous,cyanobacterium ESFC-1,photosystem I reaction center subunit IX ,517209031,360,0.0,93.8888888889,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Spirulina subsalsa,Spirulina,subsalsa,photosystem I reaction center subunit IX ,515872117,360,0.0,93.3333333333,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6714,Synechocystis,sp. PCC 6714,photosystem I reaction center subunit IX ,655751409,360,0.0,99.7222222222,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6714,Synechocystis,sp. PCC 6714,photosystem II protein D1 (PsbA) ,662703251,360,0.0,99.7222222222,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6714,Synechocystis,sp. PCC 6714,photosystem II protein D1 (PsbA) ,662703614,360,0.0,99.7222222222,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,Photosystem II protein D1 2 ,499173627,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,photosystem II D1 protein ,16329178,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,photosystem II D1 protein ,16330822,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803 substr. Kazusa,Synechocystis,sp. PCC 6803 substr. Kazusa,SBA2_SYNY3 RecName: Full=Photosystem II protein D1 2; Short=PSII D1 protein 2; AltName: Full=Photosystem II Q(B) protein 2; Flags: Precursor ,131236,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,unnamed protein product ,48050,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,unnamed protein product ,48061,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,photosystem II D1 protein ,1651658,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,photosystem II D1 protein ,1653315,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,photosystem II D1 protein ,339272269,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,photosystem II D1 protein ,339273916,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803 substr. GT-I,Synechocystis,sp. PCC 6803 substr. GT-I,photosystem II D1 protein ,359270236,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803 substr. GT-I,Synechocystis,sp. PCC 6803 substr. GT-I,photosystem II D1 protein ,359271883,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803 substr. PCC-N,Synechocystis,sp. PCC 6803 substr. PCC-N,photosystem II D1 protein ,359273407,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803 substr. PCC-N,Synechocystis,sp. PCC 6803 substr. PCC-N,photosystem II D1 protein ,359275053,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803 substr. PCC-P,Synechocystis,sp. PCC 6803 substr. PCC-P,photosystem II D1 protein ,359276577,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803 substr. PCC-P,Synechocystis,sp. PCC 6803 substr. PCC-P,photosystem II D1 protein ,359278223,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,photosystem II D1 protein ,407957043,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,photosystem II D1 protein ,407961820,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,photosystem II D1 protein ,451779306,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Synechocystis sp. PCC 6803,Synechocystis,sp. PCC 6803,photosystem II D1 protein ,451780949,360,0.0,100.0,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Coleofasciculus chthonoplastes,Coleofasciculus,chthonoplastes,photosystem I reaction center subunit IX ,493032360,360,0.0,93.0362116992,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360
+Coleofasciculus chthonoplastes PCC 7420,Coleofasciculus,chthonoplastes PCC 7420,photosystem q(b) protein ,196179942,360,0.0,93.0362116992,Synechocystis sp. PCC 6803, photosystem II D1 protein ,16330822,360

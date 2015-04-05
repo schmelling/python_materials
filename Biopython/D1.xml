@@ -1,0 +1,493 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.30+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>Synechocystis_chr_prot</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>gi|499176722|ref|WP_010874309.1| Photosystem II protein D1 1 [Synechocystis sp. PCC 6803] &gt;gi|16332289|ref|NP_443017.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|2507283|sp|P07826.3|PSBA1_SYNY3 RecName: Full=Photosystem II protein D1 1; Short=PSII D1 protein 1; AltName: Full=Photosystem II Q(B) protein 1; Flags: Precursor [Synechocystis sp. PCC 6803 substr. Kazusa] &gt;gi|1653919|dbj|BAA18829.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|339275384|dbj|BAK51871.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|359273350|dbj|BAL30869.1| photosystem II D1 protein [Synechocystis sp. PCC 6803 substr. GT-I] &gt;gi|359276520|dbj|BAL34038.1| photosystem II D1 protein [Synechocystis sp. PCC 6803 substr. PCC-N] &gt;gi|359279690|dbj|BAL37207.1| photosystem II D1 protein [Synechocystis sp. PCC 6803 substr. PCC-P] &gt;gi|451782409|gb|AGF53378.1| photosystem II D1 protein [Synechocystis sp. PCC 6803]</BlastOutput_query-def>
+  <BlastOutput_query-len>360</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>gi|499176722|ref|WP_010874309.1| Photosystem II protein D1 1 [Synechocystis sp. PCC 6803] &gt;gi|16332289|ref|NP_443017.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|2507283|sp|P07826.3|PSBA1_SYNY3 RecName: Full=Photosystem II protein D1 1; Short=PSII D1 protein 1; AltName: Full=Photosystem II Q(B) protein 1; Flags: Precursor [Synechocystis sp. PCC 6803 substr. Kazusa] &gt;gi|1653919|dbj|BAA18829.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|339275384|dbj|BAK51871.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|359273350|dbj|BAL30869.1| photosystem II D1 protein [Synechocystis sp. PCC 6803 substr. GT-I] &gt;gi|359276520|dbj|BAL34038.1| photosystem II D1 protein [Synechocystis sp. PCC 6803 substr. PCC-N] &gt;gi|359279690|dbj|BAL37207.1| photosystem II D1 protein [Synechocystis sp. PCC 6803 substr. PCC-P] &gt;gi|451782409|gb|AGF53378.1| photosystem II D1 protein [Synechocystis sp. PCC 6803]</Iteration_query-def>
+  <Iteration_query-len>360</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|3130</Hit_id>
+  <Hit_def>gi|16332289|ref|NP_443017.1| photosystem II D1 protein [Synechocystis sp. PCC 6803]</Hit_def>
+  <Hit_accession>3130</Hit_accession>
+  <Hit_len>360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>737.258</Hsp_bit-score>
+      <Hsp_score>1902</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>360</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>360</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>360</Hsp_identity>
+      <Hsp_positive>360</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>360</Hsp_align-len>
+      <Hsp_qseq>MTTTQLGLQEQSLWSRFCCWITSTSNRLYIGWFGVLMIPTLLTATTCFIIAFIAAPPVDIDGIREPIAGSLLYGNNIITAAVVPSSNAIGLHFYPIWEAHSLDEWLYNGGPYQLIVFHFLIGIFCYLGRQWELSYRLGMRPWICVAYSAPVAAATATLLIYSIGQGSFSDGLPLGISGTFNFMLVLQAEHNVLMHPFHMLGVAGVFGGALFAAMHGSLVTSSLIRETTEVESQNQGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRALHFFLGAWPVVGIWFAALAVCCFAFNLNGFNFNQSILDAQGRPVSTWADVINRANIGFEVMHERNVHNFPLDLASGDAQMVALNAPAIEG</Hsp_qseq>
+      <Hsp_hseq>MTTTQLGLQEQSLWSRFCCWITSTSNRLYIGWFGVLMIPTLLTATTCFIIAFIAAPPVDIDGIREPIAGSLLYGNNIITAAVVPSSNAIGLHFYPIWEAHSLDEWLYNGGPYQLIVFHFLIGIFCYLGRQWELSYRLGMRPWICVAYSAPVAAATATLLIYSIGQGSFSDGLPLGISGTFNFMLVLQAEHNVLMHPFHMLGVAGVFGGALFAAMHGSLVTSSLIRETTEVESQNQGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRALHFFLGAWPVVGIWFAALAVCCFAFNLNGFNFNQSILDAQGRPVSTWADVINRANIGFEVMHERNVHNFPLDLASGDAQMVALNAPAIEG</Hsp_hseq>
+      <Hsp_midline>MTTTQLGLQEQSLWSRFCCWITSTSNRLYIGWFGVLMIPTLLTATTCFIIAFIAAPPVDIDGIREPIAGSLLYGNNIITAAVVPSSNAIGLHFYPIWEAHSLDEWLYNGGPYQLIVFHFLIGIFCYLGRQWELSYRLGMRPWICVAYSAPVAAATATLLIYSIGQGSFSDGLPLGISGTFNFMLVLQAEHNVLMHPFHMLGVAGVFGGALFAAMHGSLVTSSLIRETTEVESQNQGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRALHFFLGAWPVVGIWFAALAVCCFAFNLNGFNFNQSILDAQGRPVSTWADVINRANIGFEVMHERNVHNFPLDLASGDAQMVALNAPAIEG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>3179</Statistics_db-num>
+      <Statistics_db-len>1034633</Statistics_db-len>
+      <Statistics_hsp-len>83</Statistics_hsp-len>
+      <Statistics_eff-space>213504952</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_2</Iteration_query-ID>
+  <Iteration_query-def>gi|47429|emb|CAA68778.1| unnamed protein product [Synechocystis sp. PCC 6803]</Iteration_query-def>
+  <Iteration_query-len>360</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|3130</Hit_id>
+  <Hit_def>gi|16332289|ref|NP_443017.1| photosystem II D1 protein [Synechocystis sp. PCC 6803]</Hit_def>
+  <Hit_accession>3130</Hit_accession>
+  <Hit_len>360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>730.324</Hsp_bit-score>
+      <Hsp_score>1884</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>360</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>360</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>357</Hsp_identity>
+      <Hsp_positive>357</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>360</Hsp_align-len>
+      <Hsp_qseq>MTTTQLGLQEQSLWSRFCCWITSTSNRLYIGWFGVLMIPTLLTATTCFIIAFIAAPPVDIDGIREPIAGSLLYGNNIITAAVVPSSNAIALHFYPIWEAHSLDEWLYNGGPYQLNVFHFLIGIFCYLGRQWELSYRLGMRPWICVAYSAPVAAATATLLIYSIGQGSFSDGLPLGISGTFNFMLVLQAEHNVLMHPFHMLGVAGVFGGALFAAMHGSLVTSSLIRETTEVESQNQGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRALHSFLGAWPVVGIWFAALAVCCFAFNLNGFNFNQSILDAQGRPVSTWADVINRANIGFEVMHERNVHNFPLDLASGDAQMVALNAPAIEG</Hsp_qseq>
+      <Hsp_hseq>MTTTQLGLQEQSLWSRFCCWITSTSNRLYIGWFGVLMIPTLLTATTCFIIAFIAAPPVDIDGIREPIAGSLLYGNNIITAAVVPSSNAIGLHFYPIWEAHSLDEWLYNGGPYQLIVFHFLIGIFCYLGRQWELSYRLGMRPWICVAYSAPVAAATATLLIYSIGQGSFSDGLPLGISGTFNFMLVLQAEHNVLMHPFHMLGVAGVFGGALFAAMHGSLVTSSLIRETTEVESQNQGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRALHFFLGAWPVVGIWFAALAVCCFAFNLNGFNFNQSILDAQGRPVSTWADVINRANIGFEVMHERNVHNFPLDLASGDAQMVALNAPAIEG</Hsp_hseq>
+      <Hsp_midline>MTTTQLGLQEQSLWSRFCCWITSTSNRLYIGWFGVLMIPTLLTATTCFIIAFIAAPPVDIDGIREPIAGSLLYGNNIITAAVVPSSNAI LHFYPIWEAHSLDEWLYNGGPYQL VFHFLIGIFCYLGRQWELSYRLGMRPWICVAYSAPVAAATATLLIYSIGQGSFSDGLPLGISGTFNFMLVLQAEHNVLMHPFHMLGVAGVFGGALFAAMHGSLVTSSLIRETTEVESQNQGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRALH FLGAWPVVGIWFAALAVCCFAFNLNGFNFNQSILDAQGRPVSTWADVINRANIGFEVMHERNVHNFPLDLASGDAQMVALNAPAIEG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>3179</Statistics_db-num>
+      <Statistics_db-len>1034633</Statistics_db-len>
+      <Statistics_hsp-len>83</Statistics_hsp-len>
+      <Statistics_eff-space>213504952</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_3</Iteration_query-ID>
+  <Iteration_query-def>gi|407960056|dbj|BAM53296.1| photosystem II D1 protein [Bacillus subtilis BEST7613]</Iteration_query-def>
+  <Iteration_query-len>324</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|3130</Hit_id>
+  <Hit_def>gi|16332289|ref|NP_443017.1| photosystem II D1 protein [Synechocystis sp. PCC 6803]</Hit_def>
+  <Hit_accession>3130</Hit_accession>
+  <Hit_len>360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>661.374</Hsp_bit-score>
+      <Hsp_score>1705</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>324</Hsp_query-to>
+      <Hsp_hit-from>37</Hsp_hit-from>
+      <Hsp_hit-to>360</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>324</Hsp_identity>
+      <Hsp_positive>324</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>324</Hsp_align-len>
+      <Hsp_qseq>MIPTLLTATTCFIIAFIAAPPVDIDGIREPIAGSLLYGNNIITAAVVPSSNAIGLHFYPIWEAHSLDEWLYNGGPYQLIVFHFLIGIFCYLGRQWELSYRLGMRPWICVAYSAPVAAATATLLIYSIGQGSFSDGLPLGISGTFNFMLVLQAEHNVLMHPFHMLGVAGVFGGALFAAMHGSLVTSSLIRETTEVESQNQGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRALHFFLGAWPVVGIWFAALAVCCFAFNLNGFNFNQSILDAQGRPVSTWADVINRANIGFEVMHERNVHNFPLDLASGDAQMVALNAPAIEG</Hsp_qseq>
+      <Hsp_hseq>MIPTLLTATTCFIIAFIAAPPVDIDGIREPIAGSLLYGNNIITAAVVPSSNAIGLHFYPIWEAHSLDEWLYNGGPYQLIVFHFLIGIFCYLGRQWELSYRLGMRPWICVAYSAPVAAATATLLIYSIGQGSFSDGLPLGISGTFNFMLVLQAEHNVLMHPFHMLGVAGVFGGALFAAMHGSLVTSSLIRETTEVESQNQGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRALHFFLGAWPVVGIWFAALAVCCFAFNLNGFNFNQSILDAQGRPVSTWADVINRANIGFEVMHERNVHNFPLDLASGDAQMVALNAPAIEG</Hsp_hseq>
+      <Hsp_midline>MIPTLLTATTCFIIAFIAAPPVDIDGIREPIAGSLLYGNNIITAAVVPSSNAIGLHFYPIWEAHSLDEWLYNGGPYQLIVFHFLIGIFCYLGRQWELSYRLGMRPWICVAYSAPVAAATATLLIYSIGQGSFSDGLPLGISGTFNFMLVLQAEHNVLMHPFHMLGVAGVFGGALFAAMHGSLVTSSLIRETTEVESQNQGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRALHFFLGAWPVVGIWFAALAVCCFAFNLNGFNFNQSILDAQGRPVSTWADVINRANIGFEVMHERNVHNFPLDLASGDAQMVALNAPAIEG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>3179</Statistics_db-num>
+      <Statistics_db-len>1034633</Statistics_db-len>
+      <Statistics_hsp-len>82</Statistics_hsp-len>
+      <Statistics_eff-space>187297110</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_4</Iteration_query-ID>
+  <Iteration_query-def>gi|738541196|ref|WP_036489465.1| hypothetical protein [Myxosarcina sp. GI1]</Iteration_query-def>
+  <Iteration_query-len>360</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1656</Hit_id>
+  <Hit_def>gi|16330822|ref|NP_441550.1| photosystem II D1 protein [Synechocystis sp. PCC 6803]</Hit_def>
+  <Hit_accession>1656</Hit_accession>
+  <Hit_len>360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>665.611</Hsp_bit-score>
+      <Hsp_score>1716</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>359</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>359</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>313</Hsp_identity>
+      <Hsp_positive>335</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>359</Hsp_align-len>
+      <Hsp_qseq>MTVSLQQRQSNDLWDKFCKWITSTNNRMYIGWFGVLMIPTLLTATICFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISAAVVPSSNAIGLHFYPIWEAANLDEWLYNGGPYQLIVFHFLIGIFCYLGRQWELSYRLGMRPWICVAYSAPVAAATAVLLVYSIGQGSFSDGMPLGISGTFNFMFVLQAEHNVLMHPFHMLGVAGVFGGALFSAMHGSLVTSSLVRETTETESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVVGIWFAAMAVCCFAFNLNGFNFNQSVLDAQGRVVNTWADVLNRAGLGIEAMHERNVHNFPLDLASGEIQPLALLAPAVH</Hsp_qseq>
+      <Hsp_hseq>MTTTLQQRESASLWEQFCQWVTSTNNRIYVGWFGTLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFLIGIFCYMGRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTEVESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVIGIWFTAMGVSTMAFNLNGFNFNQSILDSQGRVIGTWADVLNRANIGFEVMHERNAHNFPLDLASGEQAPVALTAPAVN</Hsp_hseq>
+      <Hsp_midline>MT +LQQR+S  LW++FC+W+TSTNNR+Y+GWFG LMIPTLLTAT CFIIAFIAAPPVDIDGIREPVAGSLLYGNNIIS AVVPSSNAIGLHFYPIWEAA+LDEWLYNGGPYQL+VFHFLIGIFCY+GRQWELSYRLGMRPWICVAYSAPV+AATAV L+Y IGQGSFSDGMPLGISGTFNFM V QAEHN+LMHPFHMLGVAGVFGG+LFSAMHGSLVTSSLVRETTE ESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPV+GIWF AM V   AFNLNGFNFNQS+LD+QGRV+ TWADVLNRA +G E MHERN HNFPLDLASGE  P+AL APAV+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>3179</Statistics_db-num>
+      <Statistics_db-len>1034633</Statistics_db-len>
+      <Statistics_hsp-len>83</Statistics_hsp-len>
+      <Statistics_eff-space>213504952</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_5</Iteration_query-ID>
+  <Iteration_query-def>gi|517211991|ref|WP_018400809.1| photosystem I reaction center subunit IX [filamentous cyanobacterium ESFC-1]</Iteration_query-def>
+  <Iteration_query-len>360</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1656</Hit_id>
+  <Hit_def>gi|16330822|ref|NP_441550.1| photosystem II D1 protein [Synechocystis sp. PCC 6803]</Hit_def>
+  <Hit_accession>1656</Hit_accession>
+  <Hit_len>360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>712.99</Hsp_bit-score>
+      <Hsp_score>1839</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>360</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>360</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>339</Hsp_identity>
+      <Hsp_positive>355</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>360</Hsp_align-len>
+      <Hsp_qseq>MTTTIQTRESNSVWERFCQWVTSTNNRLYVGWFGVLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVIFHFLIGVFCYLGRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFMLVFQAEHNILMHPFHMLGVAGVFGGALFSAMHGSLVTSSLVRETTEIESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRALHFFLGAWPVIGIWFTAMGISTMAFNLNGFNFNQSILDSQGRVVNTWADVLNRANLGFEVMHERNAHNFPLDLASGEAAPVALTAPSING</Hsp_qseq>
+      <Hsp_hseq>MTTTLQQRESASLWEQFCQWVTSTNNRIYVGWFGTLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFLIGIFCYMGRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTEVESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVIGIWFTAMGVSTMAFNLNGFNFNQSILDSQGRVIGTWADVLNRANIGFEVMHERNAHNFPLDLASGEQAPVALTAPAVNG</Hsp_hseq>
+      <Hsp_midline>MTTT+Q RES S+WE+FCQWVTSTNNR+YVGWFG LMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLV+FHFLIG+FCY+GRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFM+VFQAEHNILMHPFHMLGVAGVFGG+LFSAMHGSLVTSSLVRETTE+ESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSR+LHFFLGAWPVIGIWFTAMG+STMAFNLNGFNFNQSILDSQGRV+ TWADVLNRAN+GFEVMHERNAHNFPLDLASGE APVALTAP++NG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>3179</Statistics_db-num>
+      <Statistics_db-len>1034633</Statistics_db-len>
+      <Statistics_hsp-len>83</Statistics_hsp-len>
+      <Statistics_eff-space>213504952</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>6</Iteration_iter-num>
+  <Iteration_query-ID>Query_6</Iteration_query-ID>
+  <Iteration_query-def>gi|517209031|ref|WP_018397849.1| photosystem I reaction center subunit IX [filamentous cyanobacterium ESFC-1]</Iteration_query-def>
+  <Iteration_query-len>360</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1656</Hit_id>
+  <Hit_def>gi|16330822|ref|NP_441550.1| photosystem II D1 protein [Synechocystis sp. PCC 6803]</Hit_def>
+  <Hit_accession>1656</Hit_accession>
+  <Hit_len>360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>709.523</Hsp_bit-score>
+      <Hsp_score>1830</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>360</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>360</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>338</Hsp_identity>
+      <Hsp_positive>354</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>360</Hsp_align-len>
+      <Hsp_qseq>MTTTIQTRESNSVWERFCQWVTSTNNRLYVGWFGVLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVIFHFLIGVFCYLGRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFMLVFQAEHNILMHPFXMLGVAGVFGGALFSAMHGSLVTSSLVRETTEIESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRALHFFLGAWPVIGIWFTAMGISTMAFNLNGFNFNQSILDSQGRVVNTWADVLNRANLGFEVMHERNAHNFPLDLASGEAAPVALTAPSING</Hsp_qseq>
+      <Hsp_hseq>MTTTLQQRESASLWEQFCQWVTSTNNRIYVGWFGTLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFLIGIFCYMGRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTEVESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVIGIWFTAMGVSTMAFNLNGFNFNQSILDSQGRVIGTWADVLNRANIGFEVMHERNAHNFPLDLASGEQAPVALTAPAVNG</Hsp_hseq>
+      <Hsp_midline>MTTT+Q RES S+WE+FCQWVTSTNNR+YVGWFG LMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLV+FHFLIG+FCY+GRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFM+VFQAEHNILMHPF MLGVAGVFGG+LFSAMHGSLVTSSLVRETTE+ESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSR+LHFFLGAWPVIGIWFTAMG+STMAFNLNGFNFNQSILDSQGRV+ TWADVLNRAN+GFEVMHERNAHNFPLDLASGE APVALTAP++NG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>3179</Statistics_db-num>
+      <Statistics_db-len>1034633</Statistics_db-len>
+      <Statistics_hsp-len>83</Statistics_hsp-len>
+      <Statistics_eff-space>213504952</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>7</Iteration_iter-num>
+  <Iteration_query-ID>Query_7</Iteration_query-ID>
+  <Iteration_query-def>gi|515872117|ref|WP_017302700.1| photosystem I reaction center subunit IX [Spirulina subsalsa]</Iteration_query-def>
+  <Iteration_query-len>360</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1656</Hit_id>
+  <Hit_def>gi|16330822|ref|NP_441550.1| photosystem II D1 protein [Synechocystis sp. PCC 6803]</Hit_def>
+  <Hit_accession>1656</Hit_accession>
+  <Hit_len>360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>709.138</Hsp_bit-score>
+      <Hsp_score>1829</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>360</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>360</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>336</Hsp_identity>
+      <Hsp_positive>354</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>360</Hsp_align-len>
+      <Hsp_qseq>MTTTIQQRESANVWERFCQWVTSTNNRLYIGWFGVLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVIFHFLIGVFCYLGRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPMGQGSFSDGMPLGISGTFNFMLVFQAEHNILMHPFHMLGVAGVFGGALFSAMHGSLVTSSLVRETTETESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRALHFFLAAWPVVGIWFTALGVSTMAFNLNGFNFNQSILDSQGRVINTWADILNRANLGFEVMHERNAHNFPLDLASGEAAPVALTAPQING</Hsp_qseq>
+      <Hsp_hseq>MTTTLQQRESASLWEQFCQWVTSTNNRIYVGWFGTLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFLIGIFCYMGRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTEVESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVIGIWFTAMGVSTMAFNLNGFNFNQSILDSQGRVIGTWADVLNRANIGFEVMHERNAHNFPLDLASGEQAPVALTAPAVNG</Hsp_hseq>
+      <Hsp_midline>MTTT+QQRESA++WE+FCQWVTSTNNR+Y+GWFG LMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLV+FHFLIG+FCY+GRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYP+GQGSFSDGMPLGISGTFNFM+VFQAEHNILMHPFHMLGVAGVFGG+LFSAMHGSLVTSSLVRETTE ESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSR+LHFFL AWPV+GIWFTA+GVSTMAFNLNGFNFNQSILDSQGRVI TWAD+LNRAN+GFEVMHERNAHNFPLDLASGE APVALTAP +NG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>3179</Statistics_db-num>
+      <Statistics_db-len>1034633</Statistics_db-len>
+      <Statistics_hsp-len>83</Statistics_hsp-len>
+      <Statistics_eff-space>213504952</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>8</Iteration_iter-num>
+  <Iteration_query-ID>Query_8</Iteration_query-ID>
+  <Iteration_query-def>gi|655751409|ref|WP_028949231.1| photosystem I reaction center subunit IX [Synechocystis sp. PCC 6714] &gt;gi|662703251|gb|AIE73226.1| photosystem II protein D1 (PsbA) [Synechocystis sp. PCC 6714] &gt;gi|662703614|gb|AIE73589.1| photosystem II protein D1 (PsbA) [Synechocystis sp. PCC 6714]</Iteration_query-def>
+  <Iteration_query-len>360</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1656</Hit_id>
+  <Hit_def>gi|16330822|ref|NP_441550.1| photosystem II D1 protein [Synechocystis sp. PCC 6803]</Hit_def>
+  <Hit_accession>1656</Hit_accession>
+  <Hit_len>360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>737.643</Hsp_bit-score>
+      <Hsp_score>1903</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>360</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>360</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>359</Hsp_identity>
+      <Hsp_positive>360</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>360</Hsp_align-len>
+      <Hsp_qseq>MTTTLQQRESASLWEQFCQWVTSTNNRIYVGWFGTLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFLIGIFCYMGRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTEVESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVIGIWFTAMGVSTMAFNLNGFNFNQSILDSQGRVIGTWADVLNRANIGFEVMHERNAHNFPLDLASGEQAPVALTAPAING</Hsp_qseq>
+      <Hsp_hseq>MTTTLQQRESASLWEQFCQWVTSTNNRIYVGWFGTLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFLIGIFCYMGRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTEVESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVIGIWFTAMGVSTMAFNLNGFNFNQSILDSQGRVIGTWADVLNRANIGFEVMHERNAHNFPLDLASGEQAPVALTAPAVNG</Hsp_hseq>
+      <Hsp_midline>MTTTLQQRESASLWEQFCQWVTSTNNRIYVGWFGTLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFLIGIFCYMGRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTEVESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVIGIWFTAMGVSTMAFNLNGFNFNQSILDSQGRVIGTWADVLNRANIGFEVMHERNAHNFPLDLASGEQAPVALTAPA+NG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>3179</Statistics_db-num>
+      <Statistics_db-len>1034633</Statistics_db-len>
+      <Statistics_hsp-len>83</Statistics_hsp-len>
+      <Statistics_eff-space>213504952</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>9</Iteration_iter-num>
+  <Iteration_query-ID>Query_9</Iteration_query-ID>
+  <Iteration_query-def>gi|499173627|ref|WP_010871214.1| Photosystem II protein D1 2 [Synechocystis sp. PCC 6803] &gt;gi|16329178|ref|NP_439906.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|16330822|ref|NP_441550.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|131236|sp|P16033.1|PSBA2_SYNY3 RecName: Full=Photosystem II protein D1 2; Short=PSII D1 protein 2; AltName: Full=Photosystem II Q(B) protein 2; Flags: Precursor [Synechocystis sp. PCC 6803 substr. Kazusa] &gt;gi|48050|emb|CAA31899.1| unnamed protein product [Synechocystis sp. PCC 6803] &gt;gi|48061|emb|CAA39472.1| unnamed protein product [Synechocystis sp. PCC 6803] &gt;gi|1651658|dbj|BAA16586.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|1653315|dbj|BAA18230.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|339272269|dbj|BAK48756.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|339273916|dbj|BAK50403.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|359270236|dbj|BAL27755.1| photosystem II D1 protein [Synechocystis sp. PCC 6803 substr. GT-I] &gt;gi|359271883|dbj|BAL29402.1| photosystem II D1 protein [Synechocystis sp. PCC 6803 substr. GT-I] &gt;gi|359273407|dbj|BAL30925.1| photosystem II D1 protein [Synechocystis sp. PCC 6803 substr. PCC-N] &gt;gi|359275053|dbj|BAL32571.1| photosystem II D1 protein [Synechocystis sp. PCC 6803 substr. PCC-N] &gt;gi|359276577|dbj|BAL34094.1| photosystem II D1 protein [Synechocystis sp. PCC 6803 substr. PCC-P] &gt;gi|359278223|dbj|BAL35740.1| photosystem II D1 protein [Synechocystis sp. PCC 6803 substr. PCC-P] &gt;gi|407957043|dbj|BAM50283.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|407961820|dbj|BAM55060.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|451779306|gb|AGF50275.1| photosystem II D1 protein [Synechocystis sp. PCC 6803] &gt;gi|451780949|gb|AGF51918.1| photosystem II D1 protein [Synechocystis sp. PCC 6803]</Iteration_query-def>
+  <Iteration_query-len>360</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1656</Hit_id>
+  <Hit_def>gi|16330822|ref|NP_441550.1| photosystem II D1 protein [Synechocystis sp. PCC 6803]</Hit_def>
+  <Hit_accession>1656</Hit_accession>
+  <Hit_len>360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>738.028</Hsp_bit-score>
+      <Hsp_score>1904</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>360</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>360</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>360</Hsp_identity>
+      <Hsp_positive>360</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>360</Hsp_align-len>
+      <Hsp_qseq>MTTTLQQRESASLWEQFCQWVTSTNNRIYVGWFGTLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFLIGIFCYMGRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTEVESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVIGIWFTAMGVSTMAFNLNGFNFNQSILDSQGRVIGTWADVLNRANIGFEVMHERNAHNFPLDLASGEQAPVALTAPAVNG</Hsp_qseq>
+      <Hsp_hseq>MTTTLQQRESASLWEQFCQWVTSTNNRIYVGWFGTLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFLIGIFCYMGRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTEVESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVIGIWFTAMGVSTMAFNLNGFNFNQSILDSQGRVIGTWADVLNRANIGFEVMHERNAHNFPLDLASGEQAPVALTAPAVNG</Hsp_hseq>
+      <Hsp_midline>MTTTLQQRESASLWEQFCQWVTSTNNRIYVGWFGTLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFLIGIFCYMGRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTEVESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVIGIWFTAMGVSTMAFNLNGFNFNQSILDSQGRVIGTWADVLNRANIGFEVMHERNAHNFPLDLASGEQAPVALTAPAVNG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>3179</Statistics_db-num>
+      <Statistics_db-len>1034633</Statistics_db-len>
+      <Statistics_hsp-len>83</Statistics_hsp-len>
+      <Statistics_eff-space>213504952</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>10</Iteration_iter-num>
+  <Iteration_query-ID>Query_10</Iteration_query-ID>
+  <Iteration_query-def>gi|493032360|ref|WP_006101755.1| photosystem I reaction center subunit IX [Coleofasciculus chthonoplastes] &gt;gi|196179942|gb|EDX74935.1| photosystem q(b) protein [Coleofasciculus chthonoplastes PCC 7420]</Iteration_query-def>
+  <Iteration_query-len>360</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1656</Hit_id>
+  <Hit_def>gi|16330822|ref|NP_441550.1| photosystem II D1 protein [Synechocystis sp. PCC 6803]</Hit_def>
+  <Hit_accession>1656</Hit_accession>
+  <Hit_len>360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>702.205</Hsp_bit-score>
+      <Hsp_score>1811</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>359</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>359</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>334</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>359</Hsp_align-len>
+      <Hsp_qseq>MTTTVQRRESASLWERFCSWVTSTENRLYVGWFGVLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVAFHFLIGVFAYMGREWELSYRLGMRPWICVAYSAPVAAATAVFLIYPIGQGSFSDGMPLGISGTFNFMFVFQAEHNILMHPFHMLGVAGVFGGALFSAMHGSLVTSSLVRETTEVESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVVGIWFTALGISTMAFNLNGFNFNQSILDSQGRVVNTWADVLNRANLGFEVMHERNAHNFPLDLAAGEATPVALTAPSIN</Hsp_qseq>
+      <Hsp_hseq>MTTTLQQRESASLWEQFCQWVTSTNNRIYVGWFGTLMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLVVFHFLIGIFCYMGRQWELSYRLGMRPWICVAYSAPVSAATAVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPFHMLGVAGVFGGSLFSAMHGSLVTSSLVRETTEVESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPVIGIWFTAMGVSTMAFNLNGFNFNQSILDSQGRVIGTWADVLNRANIGFEVMHERNAHNFPLDLASGEQAPVALTAPAVN</Hsp_hseq>
+      <Hsp_midline>MTTT+Q+RESASLWE+FC WVTST NR+YVGWFG LMIPTLLTATTCFIIAFIAAPPVDIDGIREPVAGSLLYGNNIISGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLV FHFLIG+F YMGR+WELSYRLGMRPWICVAYSAPV+AATAVFLIYPIGQGSFSDGMPLGISGTFNFM VFQAEHNILMHPFHMLGVAGVFGG+LFSAMHGSLVTSSLVRETTEVESQNYGYKFGQEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFLGAWPV+GIWFTA+G+STMAFNLNGFNFNQSILDSQGRV+ TWADVLNRAN+GFEVMHERNAHNFPLDLA+GE  PVALTAP++N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>3179</Statistics_db-num>
+      <Statistics_db-len>1034633</Statistics_db-len>
+      <Statistics_hsp-len>83</Statistics_hsp-len>
+      <Statistics_eff-space>213504952</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
