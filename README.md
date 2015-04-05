@@ -9,6 +9,7 @@ Solving ODEs [[IPython nb](http://nbviewer.ipython.org/github/schmelling/python_
 
 ###Biopython###
 
+BLAST [[IPython nb](http://nbviewer.ipython.org/github/schmelling/python_tutorials/blob/master/Biopython/BLAST.ipynb)]
 
 ###Other useful IPython notebooks###
 
