@@ -1,7 +1,7 @@
 A collection of python tutorials
 ---
 
-| [ODE & Python](#ODE-&-Python) | [Other useful IPython notebooks](#Other-useful-IPython-notebooks) |
+| [ODE & Python](#ODE-&-Python) | [Biopython](#Biopython) | [Other useful IPython notebooks](#Other-useful-IPython-notebooks) |
 
 ###ODE & Python###
 
