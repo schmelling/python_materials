@@ -1,48 +1,51 @@
 # Python Materials and Tutorials
 
 ## Basic Python
-#### Books
-#### Videos
 #### Notebooks
+#### Videos
+#### Books
 #### Other 
 
 ## Data Analysis
 ### Numpy
-#### Books
-#### Videos
 #### Notebooks
-#### Other
+#### Videos
+#### Books
+#### Other 
 
 ### Pandas
-#### Books
-#### Videos
 #### Notebooks
-#### Other
+#### Videos
+#### Books
+#### Other 
 
 ### Statistics
-#### Books
-#### Videos
 #### Notebooks
-#### Other
+#### Videos
+#### Books
+#### Other 
  
 ## Visualization
 ### Matplotlib
-#### Books
-#### Videos
 #### Notebooks
-#### Other
+#### Videos
+#### Books
+#### Other 
 ### Seaborn
-#### Books
-#### Videos
 #### Notebooks
-#### Other
+#### Videos
+#### Books
+#### Other 
 ### Bokeh
-#### Books
-#### Videos
 #### Notebooks
-#### Other
+#### Videos
+#### Books
+#### Other 
 
-### Other useful IPython notebooks###
-
+### Other useful sources
+#### Notebooks
 Key differences between Python 2.x and Python 3.x [[IPython nb](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/key_differences_between_python_2_and_3.ipynb?create=1)]      
 Source: [rasbt](https://github.com/rasbt)
+#### Videos
+#### Books
+#### Other
