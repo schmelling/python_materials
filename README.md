@@ -1,7 +1,10 @@
 # Python Materials and Tutorials
 
+All of the material will be in Python 3 if possible. In case of books and outside websites I'm limited to what is offered. In case of noteboooks I will try to have everything in Python 3, if you come across a Python 2 notebook please let me know and I will try to do my best to convert it into Python 3.
+
 ## Basic Python
 #### Notebooks
+Values and Variables [[NB Viewer](http://nbviewer.jupyter.org/github/schmelling/python_materials/blob/master/basic_python/values_variables.ipynb)] [[GitHub rendering](https://github.com/schmelling/python_materials/blob/master/basic_python/values_variables.ipynb)]
 #### Videos
 #### Books
 #### Other 
