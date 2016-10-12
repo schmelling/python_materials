@@ -2,4 +2,8 @@
 
 ![alt text](http://www.ozassignmenthelp.com.au/wp-content/uploads/2013/07/python-programming-assignment-help.png "Python Logo")
 
-All of the material will be in Python 3 if possible. In case of books and outside websites I'm limited to what is offered. In case of noteboooks I will try to have everything in Python 3, if you come across a Python 2 notebook please let me know and I will try to do my best to convert it into Python 3.
+This repository is a collection of Python materials and tutorials that I found useful while learning and teaching Python. The goal of this repo is not only to store useful things for myself but also to help others who want to learn Python. That said I highly encourage you to participate in this repo and discus content or add new materials. However, this repo will not contain any detailed explainations, it rather is a place where you can find links to other resources. There are so many awesome Python related materials out there that it would be a shame to not appreciate the work done and to do it all over again.
+
+There are probably other collections out there and I would love to hear about them, however, since this repo is also for myself I will keep on maintaining this repo because all of these links are helpful to myself and I want an exhaustive collection with only, in my opinion, useful resources. I personally used all of these material, read the books or watched the videos.
+
+If you want to participate, please read the [contribution instructions]() first and keep the [code of conduct]() in mind when discussing problems.
