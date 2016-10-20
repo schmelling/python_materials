@@ -33,18 +33,34 @@
 
 ### Single Notebooks
 
-### Videos
+### Videos and MOOCs
 
 ### Books
-[Learn Python the Hard Way - Zed Shaw](http://learnpythonthehardway.org)
-
-[Python for Biologists - Dr. Martin Jones](http://pythonforbiologists.com)
+[How to Think Like a Computer Scientist - Jeffrey Elkner, Allen B. Downey, and Chris Meyers](http://openbookproject.net/thinkcs/python/english2e/index.html)
 
 [Think Python - Allen B. Downey](http://greenteapress.com/wp/think-python-2e/)
 
-### Weblinks
+[Learn Python the Hard Way - Zed Shaw](http://learnpythonthehardway.org)
+
+[Automate the Boring Stuff - Al Sweigart](https://automatetheboringstuff.com/)
+
+[A Bite of Python - Swaroop C H](https://python.swaroopch.com)
+
+### Webpages and Platforms
+
+[Python in the Classroom](https://opensource.com/education/15/9/python-in-the-classroom)
+
+[Codecademy](https://www.codecademy.com/learn/python)
+
+[Learn Python in X Minutes](https://learnxinyminutes.com/docs/python/)
 
 [Basics of Jupyter Notebook and Python](https://www.packtpub.com/books/content/basics-jupyter-notebook-and-python)
 
+[18 Resources to Learn Python Programming Language](http://codecondo.com/10-ways-to-learn-python/)
+
+[11 Great Resources to Learn and Work in Python](http://thenextweb.com/dd/2015/11/26/11-great-resources-to-learn-and-work-in-python/)
+
 ### Other
-[Python 3.5 Documentation](https://docs.python.org/3.5/index.html) 
+[Python 3.5 Documentation](https://docs.python.org/3.5/index.html)
+
+[The Python Tutorial](https://docs.python.org/3.5/tutorial/)
