@@ -14,7 +14,7 @@
 
 * __Classes__ [[NB Viewer](http://nbviewer.jupyter.org/github/rajathkumarmp/Python-Lectures/blob/master/07.ipynb)] [[GitHub rendering](https://github.com/rajathkumarmp/Python-Lectures/blob/master/07.ipynb)]
 
-*Note: This resource is in Python 2. You can still run it under Python 3, you just have to include one cell at the top of each notebook and add* `from __future__ import print_function`
+*Note: This resource is in Python 2.
 
 ### Single Notebooks
 __Name__ - Author [[NB Viewer]()] [[GitHub rendering]()]
