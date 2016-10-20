@@ -13,3 +13,5 @@
 [Why you should learn Python](https://iluxonchik.github.io/why-you-should-learn-python/)
 
 [11 great resources to learn and work in Python](http://thenextweb.com/dd/2015/11/26/11-great-resources-to-learn-and-work-in-python/)
+
+[CheckIO - Gaming while coding](https://checkio.org/)
