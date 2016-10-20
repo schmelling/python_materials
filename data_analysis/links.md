@@ -15,3 +15,9 @@
 [Python big data](https://github.com/phelps-sg/python-bigdata/blob/master/README.md)
 
 [Probability and Stats](http://mbakker7.github.io/exploratory_computing_with_python/)
+
+[Data Wrangling PyCon2015 GitHub](https://github.com/kjam/data-wrangling-pycon/)
+
+[Data Wrangling with Python](http://shop.oreilly.com/product/0636920032861.do)
+
+[Seven Python Tools All Data Scientists Should Know How to Use](http://www.galvanize.com/learn/learn-to-code/seven-python-tools-data-scientists-know-use/)
