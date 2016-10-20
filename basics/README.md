@@ -1,4 +1,4 @@
-## Basic Python
+# Basic Python
 ### Collections
 [**Python for Developers**](http://ricardoduarte.github.io/python-for-developers/) - Ricardo Duarte
 
