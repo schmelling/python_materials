@@ -1,6 +1,6 @@
 ## Statistics
 ### Collections
-### Single Notebooks
+### Notebooks
 ### Videos and MOOCs
 [Statistics for Hackers - Jake Vanderplas PyCon 2016 Talk](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
 ### Books

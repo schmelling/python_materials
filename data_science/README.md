@@ -1,7 +1,7 @@
 # Data Science
 ## NumPy
 ### Collections
-### Single Notebooks
+### Notebooks
 ### Videos and MOOCs
 ### Books
 ### Webpages and Platforms
@@ -10,7 +10,7 @@
 
 ## Pandas
 ### Collections
-### Single Notebooks
+### Notebooks
 ### Videos and MOOCs
 [Pandas from the Ground Up - Brandon Rhodes PyCon 2015 Tutorial](https://www.youtube.com/watch?v=5JnMutdy6Fw) |  [Materials](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
 

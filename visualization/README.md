@@ -9,6 +9,7 @@
 ### Webpages and Platforms
 ### Other
 [Matplotlib Documentation](http://matplotlib.org)
+
 ## Seaborn
 ### Collections
 ### Notebooks
@@ -17,11 +18,12 @@
 ### Webpages and Platforms
 ### Other
 [Seaborn Documentation](http://stanford.edu/~mwaskom/software/seaborn/index.html)
+
 ## Bokeh
 ### Collections
 ### Notebooks
 ### Videos and MOOCs
-[PyData 101 - Essential Data Science Skills for every Programmer - Andy Terrel, Christine Doig PyCon 2016 Tutorial](https://www.youtube.com/watch?v=rudYHNAGbdk) |  [Materials](https://github.com/aterrel/pydata101/blob/master/2-bokeh.ipynb)
+[PyData 101 - Essential Data Science Skills for Every Programmer - Andy Terrel, Christine Doig PyCon 2016 Tutorial](https://www.youtube.com/watch?v=rudYHNAGbdk) |  [Materials](https://github.com/aterrel/pydata101/blob/master/2-bokeh.ipynb)
 ### Books
 ### Webpages and Platforms
 ### Other
