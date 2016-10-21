@@ -31,20 +31,18 @@
 
 * __Functions__ [[NB Viewer](http://nbviewer.jupyter.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook4_functions/py_exploratory_comp_4.ipynb)] [[GitHub](https://github.com/mbakker7/exploratory_computing_with_python/blob/master/notebook4_functions/py_exploratory_comp_4.ipynb)]
 
-### Single Notebooks
-
 ### Videos and MOOCs
 
 ### Books
-[How to Think Like a Computer Scientist - Jeffrey Elkner, Allen B. Downey, and Chris Meyers](http://openbookproject.net/thinkcs/python/english2e/index.html)
+[How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english2e/index.html) - Jeffrey Elkner, Allen B. Downey, and Chris Meyers
 
-[Think Python - Allen B. Downey](http://greenteapress.com/wp/think-python-2e/)
+[Think Python](http://greenteapress.com/wp/think-python-2e/) - Allen B. Downey
 
-[Learn Python the Hard Way - Zed Shaw](http://learnpythonthehardway.org)
+[Learn Python the Hard Way](http://learnpythonthehardway.org) - Zed Shaw
 
-[Automate the Boring Stuff - Al Sweigart](https://automatetheboringstuff.com/)
+[Automate the Boring Stuff](https://automatetheboringstuff.com/) - Al Sweigart
 
-[A Bite of Python - Swaroop C H](https://python.swaroopch.com)
+[A Bite of Python](https://python.swaroopch.com) - Swaroop C H
 
 ### Webpages and Platforms
 
