@@ -21,3 +21,7 @@
 [Data Wrangling with Python](http://shop.oreilly.com/product/0636920032861.do)
 
 [Seven Python Tools All Data Scientists Should Know How to Use](http://www.galvanize.com/learn/learn-to-code/seven-python-tools-data-scientists-know-use/)
+
+[DataQuest Numpy Tutorial](https://www.dataquest.io/blog/numpy-tutorial-python/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_102)
+
+[Blog Post Data Mining](https://www.springboard.com/blog/data-mining-python-tutorial/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_101)
