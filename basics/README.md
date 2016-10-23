@@ -51,14 +51,8 @@ __Introduction to Python__ - Steve Phelps [[NB Viewer](http://nbviewer.jupyter.o
 
 [A Bite of Python](https://python.swaroopch.com) - Swaroop C H
 
-### Platforms and Webpages
+### Platforms
 [Codecademy](https://www.codecademy.com/learn/python)
-
-[Python in the Classroom](https://opensource.com/education/15/9/python-in-the-classroom)
-
-[Learn Python in X Minutes](https://learnxinyminutes.com/docs/python/)
-
-[Basics of Jupyter Notebook and Python](https://www.packtpub.com/books/content/basics-jupyter-notebook-and-python)
 
 ### Other
 [Python 3.5 Documentation](https://docs.python.org/3.5/index.html)
@@ -66,3 +60,9 @@ __Introduction to Python__ - Steve Phelps [[NB Viewer](http://nbviewer.jupyter.o
 [The Python Tutorial](https://docs.python.org/3.5/tutorial/)
 
 [Scipy Lectures - The Python Language](http://www.scipy-lectures.org/intro/language/python_language.html)
+
+[Python in the Classroom](https://opensource.com/education/15/9/python-in-the-classroom)
+
+[Learn Python in X Minutes](https://learnxinyminutes.com/docs/python/)
+
+[Basics of Jupyter Notebook and Python](https://www.packtpub.com/books/content/basics-jupyter-notebook-and-python)

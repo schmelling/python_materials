@@ -23,8 +23,7 @@ __Introduction to NumPy__ - John D. Wittenauer [[NB Viewer](http://nbviewer.jupy
 ### Videos and MOOCs
 [Arrays](https://www.youtube.com/watch?v=5RkeHZnZEnM&feature=youtu.be) | [Materials](https://github.com/mbakker7/exploratory_computing_with_python/blob/master/notebook2_arrays/py_exploratory_comp_2_sol.ipynb)- Mark Bakker
 ### Books
-### Platforms and Webpages
-[DataQuest NumPy Tutorial](https://www.dataquest.io/blog/numpy-tutorial-python/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_102)
+### Platforms
 ### Other
 [NumPy Documentation](http://docs.scipy.org/doc/)
 
@@ -35,6 +34,8 @@ __Introduction to NumPy__ - John D. Wittenauer [[NB Viewer](http://nbviewer.jupy
 [Scipy Lectures - Image Manipulation with NumPy](http://www.scipy-lectures.org/advanced/image_processing/index.html)
 
 [100 NumPy Exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html)
+
+[DataQuest NumPy Tutorial](https://www.dataquest.io/blog/numpy-tutorial-python/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_102)
 
 ## Pandas
 ### Collections
@@ -79,7 +80,8 @@ __Analysing structured data with Pandas__ - Steve Phelps [[NB Viewer](http://nbv
 [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) - Wes McKinney
 
 [Data Wrangling with Python](http://shop.oreilly.com/product/0636920032861.do) - Jacqueline Kazil and Katharine Jarmul
-### Platforms and Webpages
-[Data Mining in Python](https://www.springboard.com/blog/data-mining-python-tutorial/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_101)
+### Platforms
 ### Other
 [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
+
+[Data Mining in Python](https://www.springboard.com/blog/data-mining-python-tutorial/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_101)
