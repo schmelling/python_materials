@@ -7,3 +7,9 @@
 [Scipy Lectures - Scipy](http://www.scipy-lectures.org/intro/scipy.html)
 
 [Scipy Lectures - Sympy: Symbolic Mathematics](http://www.scipy-lectures.org/packages/sympy.html)
+
+[Awesome Python](https://github.com/msund/awesome-python)
+
+[Numba](http://numba.pydata.org)
+
+[PyDy](http://www.pydy.org)
