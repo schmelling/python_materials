@@ -1,11 +1,11 @@
 # Python for Bioinformatics
 ### Collections
-### Single Notebooks
+### Notebooks
 ### Videos and MOOCs
 ### Books
-[Python for Biologists - Dr. Martin Jones](http://pythonforbiologists.com)
+[Python for Biologists](http://pythonforbiologists.com) - Dr. Martin Jones
 
-### Webpages and Platforms
+### Platforms and Webpages
 [Rosalind](http://rosalind.info/problems/locations/)
 
 [Intro to Applied Bioinformatics](http://readiab.org/)
