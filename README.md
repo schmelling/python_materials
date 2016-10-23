@@ -18,6 +18,8 @@ __Resources__
 
 [Why You Should Learn Python](https://iluxonchik.github.io/why-you-should-learn-python/)
 
+[Scipy Lectures - Why Python](http://www.scipy-lectures.org/intro/intro.html)
+
 [Why Python is Better than MATLAB for Scientific Software](https://metarabbit.wordpress.com/2013/10/18/why-python-is-better-than-matlab-for-scientific-software/)
 
 [For Data Work It's Acutally Pretty Hard to Argue *Against* Using Python](https://breakthroughanalysis.com/2016/06/23/for-data-work-its-actually-pretty-hard-to-argue-against-using-python/)
