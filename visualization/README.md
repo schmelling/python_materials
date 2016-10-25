@@ -77,3 +77,7 @@ __Seaborn__ - John D. Wittenauer [[NB Viewer](http://nbviewer.jupyter.org/github
 [Collection of Graphs](http://shinyapps.org/apps/RGraphCompendium/index.php?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_102)
 
 *Note: This resource contains R code*
+
+[Statsmodels Graphs](http://statsmodels.sourceforge.net/devel/examples/index.html)
+
+[Statsmodels Graphs GitHub](https://github.com/statsmodels/statsmodels/wiki/Examples#user-contributed-examples)
