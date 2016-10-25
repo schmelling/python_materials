@@ -2,10 +2,10 @@
 ## scikit learn
 ### Collections
 [**Data Science Handbook**](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/code_listings) - Jake VanderPlas
-### Single Notebooks
+### Notebooks
 ### Videos and MOOCs
 ### Books
-### Platforms and Webpages
+### Platforms
 ### Other
 [Scikit Learn Documentation](http://scikit-learn.org/stable/index.html)
 
@@ -19,8 +19,8 @@
 
 ## Tensor Flow
 ### Collections
-### Single Notebooks
+### Notebooks
 ### Videos and MOOCs
 ### Books
-### Platforms and Webpages
+### Platforms
 ### Other

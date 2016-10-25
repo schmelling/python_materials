@@ -8,6 +8,6 @@ __Key Differences Between Python 2.x and Python 3.x__ - Sebastian Raschka [[NB V
 __IPython Notebook Magic__ - IPython [[NB Viewer](https://nbviewer.jupyter.org/github/ipython/ipython/blob/master/examples/IPython%20Kernel/Index.ipynb)] [[GitHub]()]  
 ### Videos and MOOCs
 ### Books
-### Webpages and Platforms
-[The IPython Notebook](http://ipython.org/ipython-doc/2/notebook/index.html)
+### Platforms
 ### Other
+[The IPython Notebook](http://ipython.org/ipython-doc/2/notebook/index.html)
