@@ -1,7 +1,7 @@
 # Machine Learning
 ## scikit learn
 ### Collections
-[**Data Science Handbook**](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/code_listings) - Jake VanderPlas
+[**Data Science Handbook**](https://github.com/jakevdp/PythonDataScienceHandbook) - Jake VanderPlas
 ### Notebooks
 ### Videos and MOOCs
 ### Books

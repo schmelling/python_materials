@@ -1,31 +1,31 @@
 # Visualization
 ## Matplotlib
 ### Collections
-[**Data Science Handbook**](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/code_listings) - Jake VanderPlas
+[**Data Science Handbook**](https://github.com/jakevdp/PythonDataScienceHandbook) - Jake VanderPlas
 
-* __Simple Line Plots__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.01-Simple-Line-Plots.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.01-Simple-Line-Plots.ipynb)]
+* __Simple Line Plots__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.01-Simple-Line-Plots.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.01-Simple-Line-Plots.ipynb)]
 
-* __Simple Scatter Plots__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.02-Simple-Scatter-Plots.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.02-Simple-Scatter-Plots.ipynb)]
+* __Simple Scatter Plots__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.02-Simple-Scatter-Plots.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.02-Simple-Scatter-Plots.ipynb)]
 
-* __Visualizing Errors__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.03-Errorbars.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.03-Errorbars.ipynb)]
+* __Visualizing Errors__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.03-Errorbars.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.03-Errorbars.ipynb)]
 
-* __Density and Contour Plots__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.04-Density-and-Contour-Plots.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.04-Density-and-Contour-Plots.ipynb)]
+* __Density and Contour Plots__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.04-Density-and-Contour-Plots.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.04-Density-and-Contour-Plots.ipynb)]
 
-* __Histograms, Binnings, and Density__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.05-Histograms-and-Binnings.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.05-Histograms-and-Binnings.ipynb)]
+* __Histograms, Binnings, and Density__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.05-Histograms-and-Binnings.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.05-Histograms-and-Binnings.ipynb)]
 
-* __Customizing Plot Legends__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.06-Customizing-Legends.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.06-Customizing-Legends.ipynb)]
+* __Customizing Plot Legends__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.06-Customizing-Legends.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.06-Customizing-Legends.ipynb)]
 
-* __Customizing Colorbars__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.07-Customizing-Colorbars.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.07-Customizing-Colorbars.ipynb)]
+* __Customizing Colorbars__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.07-Customizing-Colorbars.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.07-Customizing-Colorbars.ipynb)]
 
-* __Multiple Subplots__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.08-Multiple-Subplots.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.08-Multiple-Subplots.ipynb)]
+* __Multiple Subplots__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.08-Multiple-Subplots.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.08-Multiple-Subplots.ipynb)]
 
-* __Text and Annotation__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.09-Text-and-Annotation.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.09-Text-and-Annotation.ipynb)]
+* __Text and Annotation__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.09-Text-and-Annotation.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.09-Text-and-Annotation.ipynb)]
 
-* __Customizing Ticks__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.10-Customizing-Ticks.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.10-Customizing-Ticks.ipynb)]
+* __Customizing Ticks__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.10-Customizing-Ticks.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.10-Customizing-Ticks.ipynb)]
 
-* __Customizing Matplotlib: Configurations and Style Sheets__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.11-Settings-and-Stylesheets.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.11-Settings-and-Stylesheets.ipynb)]
+* __Customizing Matplotlib: Configurations and Style Sheets__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.11-Settings-and-Stylesheets.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.11-Settings-and-Stylesheets.ipynb)]
 
-* __3D Plotting in Matplotlib__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.12-Three-Dimensional-Plotting.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.12-Three-Dimensional-Plotting.ipynb)]
+* __3D Plotting in Matplotlib__ [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.12-Three-Dimensional-Plotting.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.12-Three-Dimensional-Plotting.ipynb)]
 
 ### Notebooks
 __Introduction to Matplotlib__ - Robert Johansson [[NB Viewer](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb)] [[GitHub](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb)]
@@ -46,7 +46,7 @@ __Matplotlib__ - John D. Wittenauer [[NB Viewer](http://nbviewer.jupyter.org/git
 ## Seaborn
 ### Collections
 ### Notebooks
-__Visualization with Seaborn__ - Jake VanderPlas [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.14-Visualization-With-Seaborn.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/code_listings/04.14-Visualization-With-Seaborn.ipynb)]
+__Visualization with Seaborn__ - Jake VanderPlas [[NB Viewer](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.14-Visualization-With-Seaborn.ipynb)] [[GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.14-Visualization-With-Seaborn.ipynb)]
 
 __Seaborn__ - John D. Wittenauer [[NB Viewer](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Seaborn.ipynb)] [[GitHub](https://github.com/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Seaborn.ipynb)]
 ### Videos and MOOCs
